@@ -5,7 +5,7 @@
 
 ## Demo
 
-![sushi](https://github.com/henninltn/sushi/blob/sushi.gif)
+![sushi](https://github.com/henninltn/sushi/blob/master/sushi.gif)
 (Common Lisp)
 
 
