@@ -11,6 +11,12 @@
 (Common Lisp)
 
 
+## Usage
+- [Common Lisp](https://github.com/henninltn/sushi/blob/master/common-lisp/README.md)
+
+- [OCaml](https://github.com/henninltn/sushi/blob/master/ocaml/README.md)
+
+
 ## Author
 
 [hennin](https://github.com/henninltn)
