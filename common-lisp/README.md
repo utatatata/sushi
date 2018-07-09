@@ -12,7 +12,7 @@ Common Lispでsushiを回す。
 ### run
 
 ```
-$ ./init.ros
+$ ./sushi.ros
 ```
 
 And then press Return a few times!
