@@ -16,6 +16,8 @@
 
 - [OCaml](https://github.com/henninltn/sushi/blob/master/ocaml/README.md)
 
+- [Fish](https://github.com/henninltn/sushi/blob/master/fish/README.md)
+
 
 ## Author
 
