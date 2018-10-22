@@ -18,6 +18,8 @@
 
 - [Fish](https://github.com/henninltn/sushi/blob/master/fish/README.md)
 
+- [Clojure](https://github.com/henninltn/sushi/blob/master/clojure/README.md)
+
 
 ## Author
 
