@@ -6,22 +6,22 @@
 
 ## Demo
 
-![sushi](https://github.com/henninltn/sushi/blob/master/sushi.gif)
+![sushi](https://github.com/utatatata/sushi/blob/master/sushi.gif)
 
 (Common Lisp)
 
 
 ## Usage
-- [Common Lisp](https://github.com/henninltn/sushi/blob/master/common-lisp/README.md)
+- [Common Lisp](https://github.com/utatatata/sushi/blob/master/common-lisp/README.md)
 
-- [OCaml](https://github.com/henninltn/sushi/blob/master/ocaml/README.md)
+- [OCaml](https://github.com/utatatata/sushi/blob/master/ocaml/README.md)
 
-- [Fish](https://github.com/henninltn/sushi/blob/master/fish/README.md)
+- [Fish](https://github.com/utatatata/sushi/blob/master/fish/README.md)
 
-- [Clojure](https://github.com/henninltn/sushi/blob/master/clojure/README.md)
+- [Clojure](https://github.com/utatatata/sushi/blob/master/clojure/README.md)
 
 
 ## Author
 
-[hennin](https://github.com/henninltn)
+[utakuma](https://github.com/utatatata)
 
