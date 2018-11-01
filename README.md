@@ -19,6 +19,7 @@
 - [Fish](https://github.com/utatatata/sushi/blob/master/fish/README.md)
 
 - [Clojure](https://github.com/utatatata/sushi/blob/master/clojure/README.md)
+- [JavaScript](https://github.com/utatatata/sushi/blob/master/javascript/README.md)
 
 
 ## Author
