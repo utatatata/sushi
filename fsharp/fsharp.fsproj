@@ -9,7 +9,7 @@
     <Compile Include="src/Utilities.fs" />
     <Compile Include="src/Matrix.fs" />
     <Compile Include="src/ConveyorBelt.fs" />
-    <Compile Include="src/Program.fs" />
+    <Compile Include="src/Main.fs" />
   </ItemGroup>
 
 </Project>
