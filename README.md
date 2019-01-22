@@ -20,6 +20,7 @@
 
 - [Clojure](https://github.com/utatatata/sushi/blob/master/clojure/README.md)
 - [JavaScript](https://github.com/utatatata/sushi/blob/master/javascript/README.md)
+- [F#](https://github.com/utatatata/sushi/blob/master/fsharp/README.md)
 
 
 ## Author
