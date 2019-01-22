@@ -6,10 +6,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="Utilities.fs" />
-    <Compile Include="Matrix.fs" />
-    <Compile Include="ConveyorBelt.fs" />
-    <Compile Include="Program.fs" />
+    <Compile Include="src/Utilities.fs" />
+    <Compile Include="src/Matrix.fs" />
+    <Compile Include="src/ConveyorBelt.fs" />
+    <Compile Include="src/Program.fs" />
   </ItemGroup>
 
 </Project>
