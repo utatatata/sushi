@@ -1,18 +1,16 @@
-namespace Sushi
+module Sushi.Utilities
 
 open System
 
 
-module Utilities =
-
-  let modulo div n =
-    (n % div + div) % div
+let modulo div n =
+  (n % div + div) % div
 
 
-  let explode s =
-    [for c in s -> c]
+let explode s =
+  [for c in s -> c]
 
 
-  let implode: char list -> string =
-    String.Concat
+let implode: char list -> string =
+  String.Concat
 
